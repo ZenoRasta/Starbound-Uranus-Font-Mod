@@ -16,7 +16,7 @@ This is a Simplified Chinese pixel font module, based on the Star Core Sinicizat
 
 # 安装
 
-1. [<点我直接下载>](https://github.com/ZenoRasta/Starbound-Uranus-Font-Mod/releases)在本仓库页面打开Release，下载最新Release中的pak文件
+1. [<点我直接下载>](https://github.com/ZenoRasta/Starbound-Uranus-Font-Mod/releases/download/v1.0/Uranus_Font.pak)在本仓库页面打开Release，下载最新Release中的pak文件
 
 2. 如果您是Steam版玩家：
 
