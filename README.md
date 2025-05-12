@@ -45,4 +45,4 @@ Based on [Uranus-Pixel](https://github.com/scott0107000/Uranus-Pixel) created by
 # License
 
 This project is licensed under the GNU GPL v3.0.  
-See the [LICENSE](LICENSE) and [COPYING](COPYING) files for details.
+See the [LICENSE](LICENSE) file for details.
